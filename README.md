@@ -1,2 +1,2 @@
 # repo-reports
-Reports Repository
+Reports Repositories
